@@ -49,7 +49,7 @@ pip3 install tweepy<br>
 pip3 install pytz<br>
 pip3 install html5lib<br>
 pip3 install pafy<br>
-git clone https://github.com/akusukabells/SELFBOY<br>
+git clone https://github.com/akusukabells/SELFBOT<br>
 ls<br>
 cd SELFBOT<br>
 ls<br>
